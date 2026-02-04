@@ -1,8 +1,3 @@
-Nice 👍
-Here’s a **clean, GitHub-ready README.md** for **Project 2 (Python + FastAPI + MySQL)**.
-Just copy–paste.
-
----
 
 ```md
 # Python + FastAPI + MySQL (Dockerized)
